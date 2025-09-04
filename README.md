@@ -5,3 +5,4 @@ Conflict Resolution
 
 * I refuse to join any club that would have me as a member. - Groucho Marx
 * "Some cause happiness wherever they go; others, whenever they go." — Oscar Wilde
+* Give up liberty for security and end up with neither. - Benjamin Franklin
