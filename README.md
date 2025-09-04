@@ -6,3 +6,4 @@ Conflict Resolution
 * I refuse to join any club that would have me as a member. - Groucho Marx
 * "Some cause happiness wherever they go; others, whenever they go." — Oscar Wilde
 * Give up liberty for security and end up with neither. - Benjamin Franklin
+* “Education is what one does after he has forgotten everything he learned at school.” - Albert Einstein
