@@ -17,6 +17,8 @@ Conflict Resolution
 * Ut hendrerit semper vel class aptent taciti sociosqu. 
 * Ad litora torquent per conubia nostra inceptos himenaeos. 
 
+![Uranus!](https://upload.wikimedia.org/wikipedia/commons/6/69/Uranus_Voyager2_color_calibrated.png)
+
 * If it looks like a Duck and quacks like a duck, It's a Duck. - A Certain Cis Teacher
 ```
   __
