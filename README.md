@@ -26,3 +26,4 @@ Conflict Resolution
  ( ._> /
   `---'
 ```
+* Chuck Norris counted to infinity.. twice.
