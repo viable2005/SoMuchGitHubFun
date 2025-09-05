@@ -16,7 +16,7 @@ Conflict Resolution
 * Pulvinar vivamus fringilla lacus nec metus bibendum egestas. 
 * Iaculis massa nisl malesuada lacinia integer nunc posuere. 
 * Ut hendrerit semper vel class aptent taciti sociosqu. 
-* Ad litora torquent per conubia nostra inceptos himenaeos. 
+* Ad litora torquent per conubia nostra inceptos himenaeos.
 
 ![Uranus!](https://upload.wikimedia.org/wikipedia/commons/6/69/Uranus_Voyager2_color_calibrated.png)
 
