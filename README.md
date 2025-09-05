@@ -16,3 +16,11 @@ Conflict Resolution
 * Iaculis massa nisl malesuada lacinia integer nunc posuere. 
 * Ut hendrerit semper vel class aptent taciti sociosqu. 
 * Ad litora torquent per conubia nostra inceptos himenaeos. 
+
+* If it looks like a Duck and quacks like a duck, It's a Duck. - A Certain Cis Teacher
+```
+  __
+<(o )___
+ ( ._> /
+  `---'
+```
